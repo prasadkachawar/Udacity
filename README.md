@@ -1,2 +1,2 @@
 # Udacity
-firstprojct
+print('hello)
